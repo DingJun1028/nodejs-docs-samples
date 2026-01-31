@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@google-cloud/tpu": "^3.5.0",
-    "sinon": "^19.0.2"
+    "sinon": "^21.0.1"
   },
   "devDependencies": {
     "c8": "^10.0.0",
